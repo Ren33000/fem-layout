@@ -15,7 +15,8 @@ body {
 	font-family: Arial, Geneva, sans-serif;
 }
 a {
-	color: #2772B0;
+	color: orange;
+	/* color: #2772B0; */
 }
 .wrapper {
 	width: 97%;
